@@ -6,3 +6,4 @@ tqdm==4.10.0
 chumpy>=0.67.0
 scikit_learn>=0.20.0
 gco-wrapper
+opencv-python==4.2.0.32

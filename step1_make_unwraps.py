@@ -26,6 +26,7 @@ def main(data_file, frame_dir, segm_dir, out):
     ft = np.load('assets/basicModel_ft.npy')
     f = np.load('assets/basicModel_f.npy')
 
+    print(vt)
     verts = data['vertices']
 
     camera_c = data['camera_c']
